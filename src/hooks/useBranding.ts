@@ -24,21 +24,21 @@ export interface BrandingConfig {
 }
 
 const DEFAULT_BRANDING: BrandingConfig = {
-  siteName: "NX CINEMA",
+  siteName: "MOVIE NIGHT",
   siteDescription: "Your ultimate destination for watching anime series and movies.",
   siteTagline: "Premium Series & Movies Streaming",
-  loginTitle: "NX CINEMA",
+  loginTitle: "MOVIE NIGHT",
   loginSubtitle: "Premium Series & Movies Streaming",
-  premiumTitle: "NX CINEMA Premium",
+  premiumTitle: "MOVIE NIGHT Premium",
   footerText: "Unlimited Series & Movies",
-  footerCopyright: "© 2026 NX CINEMA. All rights reserved.",
-  splashText: "NX CINEMA",
-  adminTitle: "NX CINEMA Admin",
-  aboutTitle: "About NX CINEMA",
+  footerCopyright: "© 2026 MOVIE NIGHT. All rights reserved.",
+  splashText: "MOVIE NIGHT",
+  adminTitle: "MOVIE NIGHT Admin",
+  aboutTitle: "About MOVIE NIGHT",
   logoUrl: "",
   playerLogoUrl: "",
-  playerName: "NX CINEMA PLAYER",
-  rsCardLabel: "NX",
+  playerName: "MOVIE NIGHT PLAYER",
+  rsCardLabel: "MN",
   anCardLabel: "AN",
 };
 
